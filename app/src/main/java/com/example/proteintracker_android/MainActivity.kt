@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             ProteinTrackerAndroidTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Merhaba",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
