@@ -9,4 +9,5 @@ fun SettingsScreen() {
     //kwvqkvk
     //maina deneme
     //ll
+    //alper
 }
