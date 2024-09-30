@@ -6,6 +6,7 @@ import androidx.compose.runtime.Composable
 fun SettingsScreen() {
 // deneme
     // mücahit
+    //kwvqkvk
     //maina deneme
     //ll
 }
